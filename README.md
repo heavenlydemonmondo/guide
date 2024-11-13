@@ -1,4 +1,4 @@
-# Introduction to Story: Revolutionizing Intellectual Property
+# Introduction to Story: Revolutionizing Intellectual Property (testing)
 Introduction to Story: Revolutionizing Intellectual Property
 Story is transforming the way we perceive and manage intellectual property (IP). Traditionally, IP was largely about legal protections for writers and artists, but today, creativity extends far beyond those boundaries — even encompassing AI-generated works. In this evolving landscape, the traditional, cumbersome processes for registering and protecting IP no longer suffice. Story addresses this by placing everything on-chain, and introducing programmable IP that simplifies the management and protection of creative works. Setting up a validator for the Story network is essential for securing and decentralizing the platform. Story revolutionizes intellectual property (IP) by making it programmable and easily managed on the blockchain. As a validator, you help maintain the network’s integrity, enabling creators to license, remix, and monetize their work transparently and securely. This guide will help you quickly set up your own Story validator node.
 
